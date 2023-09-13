@@ -1,6 +1,5 @@
 # Springboot-Project-Initializer
 
-```markdown
 # Spring Boot Starter Project
 
 This is a simple Spring Boot starter project created using Spring Initializer. If you are working on a Spring Boot project you can make work easir by clonnig this project as your stater project for you Application.
@@ -15,22 +14,9 @@ Follow these steps to get started with this project:
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/your-spring-boot-project.git
-   ```
-
 2. **Build the project:**
 
-   ```bash
-   cd your-spring-boot-project
-   mvn clean install
-   ```
-
 3. **Run the application:**
-
-   ```bash
-   mvn spring-boot:run
-   ```
 
 4. **Access the application:**
 
