@@ -27,9 +27,3 @@ Follow these steps to get started with this project:
 - [Java Development Kit (JDK)](https://adoptopenjdk.net/) installed
 - [Maven](https://maven.apache.org/) installed
 - Your favorite Integrated Development Environment (IDE) for code editing (e.g., [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org/))
-
-## License
-
-This project is licensed under
-
-
