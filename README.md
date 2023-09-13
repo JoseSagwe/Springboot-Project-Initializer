@@ -3,7 +3,7 @@
 ```markdown
 # Spring Boot Starter Project
 
-This is a simple Spring Boot starter project created using Spring Initializer.
+This is a simple Spring Boot starter project created using Spring Initializer. If you are working on a Spring Boot project you can make work easir by clonnig this project as your stater project for you Application.
 
 ## Description
 
